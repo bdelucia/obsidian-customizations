@@ -1,2 +1,13 @@
 # Hello!
 
+I use two community plugins for styling in Obsidian: [Editing Toolbar](https://community.obsidian.md/plugins/editing-toolbar) and [Style Settings](https://community.obsidian.md/plugins/obsidian-style-settings).
+
+I styled both the editing toolbar and my Obsidian around my personal [design system](https://github.com/bdelucia/bobDS), though I didn't really touch light mode as much as I NEVER use light mode. Though the light mode styling is still applicable.
+
+Do with these files what you will, edit them to your liking if you wish.
+
+## Dark theme preview: 
+<img width="3836" height="2087" alt="image" src="https://github.com/user-attachments/assets/43340d94-c562-41f5-9d1a-bad03522cc88" />
+
+## Light theme preview:
+<img width="3839" height="2083" alt="image" src="https://github.com/user-attachments/assets/03ffba0f-ca51-4081-b3e7-e1f0128a7639" />
