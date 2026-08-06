@@ -4,7 +4,7 @@
 
 I use two community plugins with custom styling in Obsidian: [Editing Toolbar](https://community.obsidian.md/plugins/editing-toolbar) and [Style Settings](https://community.obsidian.md/plugins/obsidian-style-settings).
 
-I styled both the editing toolbar and my Obsidian around my personal [design system](https://github.com/bdelucia/bobDS), though light mode is still heavily vanilla AnuPpuccin. I'm too lazy to integrate my design system's light theme as of right now.
+I styled both the editing toolbar and my Obsidian around my personal [design system](https://github.com/bdelucia/bobDS), though light mode is still heavily vanilla AnuPpuccin. I'm too lazy to integrate my design system's light theme as of right now. I don't believe the customs styling for Editing Toolbar supports theme switching which further deters me from doing this 🤷‍♂️
 
 Do with these files what you will, edit them to your liking if you wish.
 
