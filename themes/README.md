@@ -1,6 +1,6 @@
 # Obsidian theming
 
-> The base theme I use is (AnuPpuccin)[https://publish.obsidian.md/hub/02+-+Community+Expansions/02.05+All+Community+Expansions/Themes/AnuPpuccin]. Style Settings config requires this theme to be installed to work.
+> The base theme I use is [AnuPpuccin](https://publish.obsidian.md/hub/02+-+Community+Expansions/02.05+All+Community+Expansions/Themes/AnuPpuccin). Style Settings config requires this theme to be installed to work.
 
 I use two community plugins with custom styling in Obsidian: [Editing Toolbar](https://community.obsidian.md/plugins/editing-toolbar) and [Style Settings](https://community.obsidian.md/plugins/obsidian-style-settings).
 
