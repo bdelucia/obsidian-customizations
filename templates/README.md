@@ -1,4 +1,6 @@
-All templates require the use of the [Templater](https://community.obsidian.md/plugins/templater-obsidian) community plugin.
+# Obsidian Templates
+
+> All templates require the use of the [Templater](https://community.obsidian.md/plugins/templater-obsidian) community plugin.
 
 I currently have a `Templates` folder in the root of my Obsidian vault with these templates. 
 
