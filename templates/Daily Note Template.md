@@ -2,12 +2,17 @@
 
 # <% tp.date.now("dddd, MMMM Do, YYYY", 0, tp.file.title, "YYYY-MM-DD") %>
 
-## 🎯 Top Priorities
+## 🎯 Things I need to do
 - [ ] 
 - [ ] 
 - [ ] 
 
-## 🛠️ Work & Dev Log
-- 
+## 🤌 Things I want to do
+- [ ] 
+- [ ] 
+- [ ] 
 
 ## 🧠 Braindump & Scratchpad
+
+
+## 🧐 End-of-day Journal
